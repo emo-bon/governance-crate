@@ -1,0 +1,20 @@
+operator_abbr,operator_name,operating_observatory_id,edmo_id,EMBRC_NODE,OpCo representative,OpCo representative mail
+UGENT,Ghent University,BPNS,,EMBRC-BE,Klaas Deneudt,klaas.deneudt@vliz.be
+VLIZ,Flanders Marine Institute,BPNS,,EMBRC-BE,Klaas Deneudt,klaas.deneudt@vliz.be
+RBINS,Royal Belgian Institute of Natural Sciences,BPNS,,EMBRC-BE,Klaas Deneudt,klaas.deneudt@vliz.be
+KULeuven,Katholieke Universiteit Leuven,BPNS,,EMBRC-BE,Klaas Deneudt,klaas.deneudt@vliz.be
+UVIGO,Toralla Marine Science Station - Vigo University Marine Research Centre,EMT21,,EMBRC-ES,Oihane Diaz De Cerio Arruabarrena,oihane.diazdecerio@ehu.eus
+UPV/EHU,Plentzia Marine Station,PiEGetxo,,EMBRC-ES,Oihane Diaz De Cerio Arruabarrena,oihane.diazdecerio@ehu.eus
+IMEV,Institut de la Mer de Villefranche,VB,,EMBRC-FR,Fabrice Not,not@sb-roscoff.fr
+OOB,Observatoire Océanologique de Banyuls sur Mer,OOB,,EMBRC-FR,Fabrice Not,not@sb-roscoff.fr
+SBR,Station Biologique de Roscoff,ROSKOGO,,EMBRC-FR,Fabrice Not,not@sb-roscoff.fr
+HCMR,"Institute of Marine Biology, Biotechnology and Aquaculture, Hellenic Centre for Marine Research",HCMR-1,,EMBRC-GR,Melanthia Stavroulaki,mstavroulaki@hcmr.gr
+HUJI,Interuniversity Institute for Marine Sciences,IUIEilat1,,EMBRC-IL,Miguel Frada,miguel.frada@mail.huji.ac.il
+SZN,Stazione Zoologica Anton Dohrn,NRMCB,,EMBRC-IT,Raffaella Casotti,raffaella.casotti@szn.it
+CNR-ISMAR,"National Research Council, Institute of Marine Science (ISMAR)",AAOT,,EMBRC-IT,Raffaella Casotti,raffaella.casotti@szn.it
+UIB,University of Bergen,Bergen,,EMBRC-NO,Kim Praebel,Kim.praebel@uit.no
+UIT,The Arctic University of Norway,ESC68N,,EMBRC-NO,Kim Praebel,Kim.praebel@uit.no
+CCMAR,Centre for Marine Sciences,RFormosa,,EMBRC-PT,Bruno Louro,blouro@ualg.pt
+CIIMAR,Interdisciplinary Centre of Marine and Environmental Research,OSD74,,EMBRC-PT,Bruno Louro,blouro@ualg.pt
+MBA,The Marine Biological Association,MBAL4,,EMBRC-UK,Michael Cunliffe,micnli@mba.ac.uk
+MSS,Scottish Government – Marine Scotland Science,STHVN,,EMBRC-UK,Michael Cunliffe,micnli@mba.ac.uk
