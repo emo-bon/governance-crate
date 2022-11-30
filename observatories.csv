@@ -1,17 +1,18 @@
-country_code,country,EMOBON_observatory_name,EMOBON_observatory_id,startdate,enddate,Water_Column,Soft_Substrates,Hard_Substrates,water_site_coordinates (latitude;longitude),sediment_site_coordinates,hard_substrates_site1_coordinates,hard_substrates_site2_coordinates,contect person,contact person email
-BE,Belgium,EMOBON-BE,BPNS,2021-06-01,,y,y,y,"51.433331;2.808331","51.433331;2.80833","51.579997;2.9933",,Klaas Deneudt,klaas.deneudt@vliz.be
-ES,Spain,EMT CIM-UVIGO,EMT21,2021-06-01,,y,y,y,"42.201944;-8.7985","42.201944,-8.7985","42º 13’ 42,22’’ N, 8º 46’43’’ W",,"Jose Gonzalez, Jesús Troncoso","josegonzález@uvigo.es, troncoso@uvigo.es"
-ES,Spain,PiE-UPV/EHU,PiEGetxo,2021-06-01,,y,n,y,"43.338583;-3.014639",,"42.228394;8.778611",,Oihane Diaz De Cerio Arruabarrena,oihane.diazdecerio@ehu.eus
-FR,France,Bay of Villefranche sur Mer- southern France,VB,2021-06-01,,y,n,n,"43.683;7.317",,43.674619; 7.332372,,Cecile Fauvelot,cecile.fauvelot@ird.fr
-FR,France,Banyuls Observatory,OOB,2021-06-01,,n,y,n,,"42.484167;3.135278",,,Pierre GALAND,pierre.galand@obs-banyuls.fr
-FR,France,Roscoff Genomic Observatory,ROSKOGO,2021-06-01,,y,y,y,"48.771667;-3.968333","48.771667,-3.968333",48.728719; -3.958939,48.717511; -3.966489,Fabienne Rigaut-Jalabert,fabienne.jalabert@sb-roscoff.fr
-GR,Greece,HCMR-1-UBPC,HCMR-1,2021-06-01,,y,y,y,"35.346621,25.278761","35.346621;25.27876",,,Melanthia Stavroulaki,mstavroulaki@hcmr.gr
-IL,Israel,IUI,IUIEilat1,2021-06-01,,y,n,y,"29.5;34.916667",,,,Miguel Frada,miguel.frada@mail.huji.ac.il
-IT,Italy,NEREAB,NRMCB,2021-06-01,,y,y,n,"40.800139;14.25","40.800139,14.25",,,Raffaella Casotti,raffaella.casotti@szn.it
-IT,Italy,Acqua Alta Oceanographic Tower ,AAOT,2021-06-01,,y,n,y,"45.314167;12.508333",,"45° 18.510'N, 12° 30.300'E",,Mauro Bastianini,mauro.bastianini@ismar.cnr.it
-NO,Norway,Marineholmen,Bergen,2021-06-01,,y,n,n,"60.269671;5.21957",,,,Henrik Glenner,Henrik.Glenner@UiB.no
-NO,Norway,Engenes Science Centre ,ESC68N,2021-06-01,,y,n,n,68.925895;17.125619,,,,Kim Praebel,Kim.praebel@uit.no
-PT,Portugal,Ria Formosa,RFormosa,2021-06-01,,y,y,n,"37.005639;-7.96925","37.005639;-7.96925",,,Bruno Louro,blouro@ualg.pt
-PT,Portugal,Porto,OSD74,2021-06-01,,y,n,n,41.146528;-8.666639,,,,Catarina Magalhães,cmagalhaes@ciimar.up.pt
-GB,United Kingdom,Plymouth Station L4 ,MBAL4,2021-06-01,,y,n,n,"50.25;-4.217",,,,Michael Cunliffe,micnli@mba.ac.uk
-GB,United Kingdom,Stonehaven,STHVN,2021-06-01,,y,y,n,"56.9635;-2.113","56.9635;-2.113",,,Iveta Matejusova,Iveta.Matejusova@gov.scot
+country_code,country,EMOBON_observatory_name,EMOBON_observatory_id,startdate,enddate,Water_Column,Soft_Substrates,Hard_Substrates,water_site_latitude,water_site_longitude,sediment_site_latitude,sediment_site_longtitude,hard_substrates_site1_longitude,hard_substrates_site1_latitude,hard_substrates_site2_longtitude,hard_substrates_site2_latitude,contect person,contact person email
+BE,Belgium,EMOBON-BE,BPNS,1/6/2021,,y,y,y,51.433331,2.808331,51.433331,2.80833,51.579997,2.9933,,,Klaas Deneudt,klaas.deneudt@vliz.be
+ES,Spain,EMT CIM-UVIGO,EMT21,1/6/2021,,y,y,y,42.201944,-8.7985,42.201944,-8.7985,42.233333,-8.783333,,,"Jose Gonzalez, Jesus Troncoso","josegonzález@uvigo.es, troncoso@uvigo.es"
+ES,Spain,PiE-UPV/EHU,PiEGetxo,1/6/2021,,y,n,y,43.338583,-3.014639,,,43.338452,-3.014833,,,Oihane Diaz De Cerio Arruabarrena,oihane.diazdecerio@ehu.eus
+FR,France,Bay of Villefranche sur Mer- southern France,VB,1/6/2021,,y,n,y,43.683,7.317,,,43.674619,7.332372,,,Cecile Fauvelot,cecile.fauvelot@ird.fr
+FR,France,Banyuls Observatory,OOB,1/6/2021,,n,y,n,,,42.484167,3.135278,,,,,Pierre Galand,pierre.galand@obs-banyuls.fr
+FR,France,Roscoff Genomic Observatory,ROSKOGO,1/6/2021,,y,y,y,48.771667,-3.968333,48.771667,-3.968333,48.728719,-3.958939,48.717511,-3.966489,Fabienne Rigaut-Jalabert,fabienne.jalabert@sb-roscoff.fr
+GR,Greece,HCMR-1-UBPC,HCMR-1,1/6/2021,,y,y,y,35.346621,25.278761,35.346621,25.27876,35.343153,25.136605,35.34662,25.27876,Melanthia Stavroulaki,mstavroulaki@hcmr.gr
+IL,Israel,IUI,IUIEilat1,1/6/2021,,y,n,y,29.5,34.916667,,,29.5,34.9,29.52,34.93,Miguel Frada,miguel.frada@mail.huji.ac.il
+IT,Italy,NEREAB,NRMCB,1/6/2021,,y,y,n,40.800139,14.25,40.800139,14.25,,,,,Raffaella Casotti,raffaella.casotti@szn.it
+IT,Italy,Acqua Alta Oceanographic Tower ,AAOT,1/6/2021,,y,n,y,45.314167,12.508333,,,45.316667,12.5,,,Mauro Bastianini,mauro.bastianini@ismar.cnr.it
+NO,Norway,Marineholmen,Bergen,1/6/2021,,y,n,n,60.269671,5.21957,,,,,,,Henrik Glenner,Henrik.Glenner@UiB.no
+NO,Norway,Engenes Science Centre ,ESC68N,1/6/2021,,y,n,n,68.925895,17.125619,,,,,,,Kim Praebel,Kim.praebel@uit.no
+PT,Portugal,Ria Formosa,RFormosa,1/6/2021,,y,y,n,37.005639,-7.96925,37.005639,-7.96925,,,,,Bruno Louro,blouro@ualg.pt
+PT,Portugal,Porto,OSD74,1/6/2021,,y,n,n,41.146528,-8.666639,,,,,,,Catarina Magalhes,cmagalhaes@ciimar.up.pt
+GB,United Kingdom,Plymouth Station L4 ,MBAL4,1/6/2021,,y,n,n,50.25,-4.217,,,,,,,Michael Cunliffe,micnli@mba.ac.uk
+GB,United Kingdom,Stonehaven,STHVN,1/6/2021,,y,y,n,56.9635,-2.113,56.9635,-2.113,,,,,Iveta Matejusova,Iveta.Matejusova@gov.scot
+SE,Sweden,�re Estuary,UMF,1/8/2022,,y,y,n,63.530556,19.813611,63.009128,19.01398,,,,,Annie Marie Cox,annie.cox@umu.se
