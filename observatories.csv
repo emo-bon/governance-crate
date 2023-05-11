@@ -1,6 +1,6 @@
 country_code,country,EMOBON_observatory_name,EMOBON_observatory_id,startdate,enddate,Water_Column,Soft_Substrates,Hard_Substrates,water_site_latitude,water_site_longitude,sediment_site_latitude,sediment_site_longtitude,hard_substrates_site1_longitude,hard_substrates_site1_latitude,hard_substrates_site2_longtitude,hard_substrates_site2_latitude,contect person,contact person email,ENA_accesion_number_umbrella,ENA_accesion_number_project
 BE,Belgium,EMOBON-BE,BPNS,1/6/2021,,y,y,y,51.433331,2.808331,51.433331,2.80833,51.579997,2.9933,,,Klaas Deneudt,klaas.deneudt@vliz.be,PRJEB51688,PRJEB51652
-ES,Spain,EMT CIM-UVIGO,EMT21,1/6/2021,,y,y,y,42.201944,-8.7985,42.201944,-8.7985,42.233333,-8.783333,,,"Jose Gonzalez, Jesus Troncoso","josegonzÃ¡lez@uvigo.es, troncoso@uvigo.es",PRJEB51688,PRJEB51653
+ES,Spain,EMT CIM-UVIGO,EMT21,1/6/2021,,y,y,y,42.201944,-8.7985,42.201944,-8.7985,42.233333,-8.783333,,,"Jose Gonzalez, Jesus Troncoso","josegonzález@uvigo.es, troncoso@uvigo.es",PRJEB51688,PRJEB51653
 ES,Spain,PiE-UPV/EHU,PiEGetxo,1/6/2021,,y,n,y,43.338583,-3.014639,,,43.338452,-3.014833,,,Oihane Diaz De Cerio Arruabarrena,oihane.diazdecerio@ehu.eus,PRJEB51688,PRJEB51660
 FR,France,Bay of Villefranche sur Mer- southern France,VB,1/6/2021,,y,n,y,43.683,7.317,,,43.674619,7.332372,,,Cecile Fauvelot,cecile.fauvelot@ird.fr,PRJEB51688,PRJEB51664
 FR,France,Banyuls Observatory,OOB,1/6/2021,,n,y,n,,,42.484167,3.135278,,,,,Pierre Galand,pierre.galand@obs-banyuls.fr,PRJEB51688,PRJEB51665
