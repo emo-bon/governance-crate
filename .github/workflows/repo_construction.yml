@@ -1,0 +1,14 @@
+on: [push]
+jobs:
+  job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+      - name: repo-constructor-action
+        uses: emo-bon/repo-constructor-action@master
+        env:
+          PAT: ${{ secrets.PAT }}
+          FILE_PATH: nonexistentfile.csv
+          ORG: emo-bon
+          CHILD_ACTION: emo-bon/logsheet-downloader-action@master
