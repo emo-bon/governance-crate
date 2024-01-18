@@ -1,0 +1,21 @@
+operator_abbr,operator_name,operating_observatory_id,edmo_id,EMBRC_NODE,OpCo representative,OpCo representative mail
+UGENT,Ghent University,BPNS,449,EMBRC-BE,Klaas Deneudt,klaas.deneudt@vliz.be
+VLIZ,Flanders Marine Institute,BPNS,422,EMBRC-BE,Klaas Deneudt,klaas.deneudt@vliz.be
+RBINS,Royal Belgian Institute of Natural Sciences,BPNS,432,EMBRC-BE,Klaas Deneudt,klaas.deneudt@vliz.be
+KULeuven,Katholieke Universiteit Leuven,BPNS,2248,EMBRC-BE,Klaas Deneudt,klaas.deneudt@vliz.be
+UVIGO,Toralla Marine Science Station - Vigo University Marine Research Centre,EMT21,2163,EMBRC-ES,Oihane Diaz De Cerio Arruabarrena,oihane.diazdecerio@ehu.eus
+UPV/EHU,Plentzia Marine Station,PiEGetxo,2167,EMBRC-ES,Oihane Diaz De Cerio Arruabarrena,oihane.diazdecerio@ehu.eus
+IMEV,Institut de la Mer de Villefranche,VB,5041,EMBRC-FR,Fabrice Not,not@sb-roscoff.fr
+OOB,Observatoire Océanologique de Banyuls sur Mer,OOB,1015,EMBRC-FR,Fabrice Not,not@sb-roscoff.fr
+SBR,Station Biologique de Roscoff,ROSKOGO,521,EMBRC-FR,Fabrice Not,not@sb-roscoff.fr
+HCMR,"Institute of Marine Biology, Biotechnology and Aquaculture, Hellenic Centre for Marine Research",HCMR-1,141,EMBRC-GR,Melanthia Stavroulaki,mstavroulaki@hcmr.gr
+UIU,Interuniversity Institute for Marine Sciences,IUIEilat1,,EMBRC-IL,Miguel Frada,miguel.frada@mail.huji.ac.il
+SZN,Stazione Zoologica Anton Dohrn,NRMCB,237,EMBRC-IT,Raffaella Casotti,raffaella.casotti@szn.it
+CNR-ISMAR,"National Research Council, Institute of Marine Science (ISMAR)",AAOT,227,EMBRC-IT,Raffaella Casotti,raffaella.casotti@szn.it
+UIB,University of Bergen,Bergen,544,EMBRC-NO,Kim Praebel,Kim.praebel@uit.no
+UIT,The Arctic University of Norway,ESC68N,5354,EMBRC-NO,Kim Praebel,Kim.praebel@uit.no
+CCMAR,Centre for Marine Sciences,RFormosa,2516,EMBRC-PT,Bruno Louro,blouro@ualg.pt
+CIIMAR,Interdisciplinary Centre of Marine and Environmental Research,OSD74,1626,EMBRC-PT,Bruno Louro,blouro@ualg.pt
+MBA,The Marine Biological Association,MBAL4,45,EMBRC-UK,Michael Cunliffe,micnli@mba.ac.uk
+MSS,Scottish Government – Marine Scotland Science,STHVN,2135,EMBRC-UK,Michael Cunliffe,micnli@mba.ac.uk
+UmU,Umea Marine Sciences Centre - Umea University,UMF,622,EMBRC-SE,Matthias Obst,matthias.obst@marine.gu.se
