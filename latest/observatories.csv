@@ -1,7 +1,5 @@
 country_code,country,EMOBON_observatory_name,EMOBON_observatory_id,startdate,enddate,Water_Column,Soft_Substrates,Hard_Substrates,water_site_latitude,water_site_longitude,sediment_site_latitude,sediment_site_longtitude,hard_substrates_site1_longitude,hard_substrates_site1_latitude,hard_substrates_site2_longtitude,hard_substrates_site2_latitude,contact_person,contact_person_email,ENA_accession_number_umbrella,ENA_accession_number_project,EMOBON_core
 BE,Belgium,EMOBON-BE,BPNS,1/6/2021,,y,y,y,51.433331,2.808331,51.433331,2.80833,51.579997,2.9933,,,Klaas Deneudt,klaas.deneudt@vliz.be,PRJEB51688,PRJEB51652,y
-ES,Spain,EMT CIM-UVIGO,EMT21,1/6/2021,,y,y,y,42.201944,-8.7985,42.201944,-8.7985,42.233333,-8.783333,,,"Jose Gonzalez, Jesus Troncoso","josegonzález@uvigo.es, troncoso@uvigo.es",PRJEB51688,PRJEB51653,y
-ES,Spain,PiE-UPV/EHU,PiEGetxo,1/6/2021,,y,n,y,43.338583,-3.014639,,,43.338452,-3.014833,,,Oihane Diaz De Cerio Arruabarrena,oihane.diazdecerio@ehu.eus,PRJEB51688,PRJEB51660,y
 FR,France,Bay of Villefranche sur Mer- southern France,VB,1/6/2021,,y,n,y,43.683,7.317,,,43.674619,7.332372,,,Cecile Fauvelot,cecile.fauvelot@ird.fr,PRJEB51688,PRJEB51664,y
 FR,France,Banyuls Observatory,OOB,1/6/2021,,n,y,n,,,42.484167,3.135278,,,,,Pierre Galand,pierre.galand@obs-banyuls.fr,PRJEB51688,PRJEB51665,y
 FR,France,Roscoff Genomic Observatory,ROSKOGO,1/6/2021,,y,y,y,48.771667,-3.968333,48.771667,-3.968333,48.728719,-3.958939,48.717511,-3.966489,Fabienne Rigaut-Jalabert,fabienne.jalabert@sb-roscoff.fr,PRJEB51688,PRJEB51662,y
@@ -13,8 +11,10 @@ NO,Norway,Marineholmen,Bergen,1/6/2021,,y,n,n,60.269671,5.21957,,,,,,,Henrik Gle
 NO,Norway,Engenes Science Centre ,ESC68N,1/6/2021,,y,n,n,68.925895,17.125619,,,,,,,Kim Praebel,Kim.praebel@uit.no,PRJEB51688,PRJEB51654,y
 PT,Portugal,Ria Formosa,RFormosa,1/6/2021,,y,y,n,37.005639,-7.96925,37.005639,-7.96925,,,,,Bruno Louro,blouro@ualg.pt,PRJEB51688,PRJEB51661,y
 PT,Portugal,Porto,OSD74,1/6/2021,,y,n,n,41.146528,-8.666639,,,,,,,Catarina Magalhes,cmagalhaes@ciimar.up.pt,PRJEB51688,PRJEB51659,y
-GB,United Kingdom,Plymouth Station L4 ,MBAL4,1/6/2021,31/12/2022,y,n,n,50.25,-4.217,,,,,,,Michael Cunliffe,micnli@mba.ac.uk,PRJEB51688,PRJEB51657,y
-GB,United Kingdom,Stonehaven,STHVN,1/6/2021,31/12/2022,y,y,n,56.9635,-2.113,56.9635,-2.113,,,,,Iveta Matejusova,Iveta.Matejusova@gov.scot,PRJEB51688,PRJEB51663,y
+ES,Spain,EMT CIM-UVIGO,EMT21,1/6/2021,,y,y,y,42.201944,-8.7985,42.201944,-8.7985,42.233333,-8.783333,,,"Jose Gonzalez, Jesus Troncoso","josegonzález@uvigo.es, troncoso@uvigo.es",PRJEB51688,PRJEB51653,y
+ES,Spain,PiE-UPV/EHU,PiEGetxo,1/6/2021,,y,n,y,43.338583,-3.014639,,,43.338452,-3.014833,,,Oihane Diaz De Cerio Arruabarrena,oihane.diazdecerio@ehu.eus,PRJEB51688,PRJEB51660,y
+ES,Spain,PiE-UPV/EHU,Plenzia,1/6/2023,,y,n,n,43.416151,-2.955807,,, , ,,,Oihane Diaz De Cerio Arruabarrena,oihane.diazdecerio@ehu.eus,PRJEB51688, ,n
 SE,Sweden,Ore Estuary,UMF,1/8/2022,,y,y,n,63.530556,19.813611,63.009128,19.01398,,,,,Annie Marie Cox,annie.cox@umu.se,PRJEB51688,PRJEB57914,y
 SE,Sweden,Linnaeus Microbial Observatory,LMO,1/12/2022,,y,n,n,56.916904,17.050178,,,,,,,Jarone Pinhassi,Jarone.pinhassi@lnu.se,PRJEB51688,PRJEB64705,y
-ES,Spain,PiE-UPV/EHU,Plenzia,1/6/2023,,y,n,n,43.416151,-2.955807,,, , ,,,Oihane Diaz De Cerio Arruabarrena,oihane.diazdecerio@ehu.eus,PRJEB51688, ,n
+GB,United Kingdom,Plymouth Station L4 ,MBAL4,1/6/2021,31/12/2022,y,n,n,50.25,-4.217,,,,,,,Michael Cunliffe,micnli@mba.ac.uk,PRJEB51688,PRJEB51657,y
+FI,Finland,Tv�rminne Zoological Station,TZS_STOR,45631,,y,y,y,59.853542,23.266784,59.8566,23.2818,59.841505,23.248879,,,Laura Kauppi,laura.kauppi@helsinki.fi,,,y
