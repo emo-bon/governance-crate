@@ -6,7 +6,7 @@ FR,France,Roscoff Genomic Observatory,ROSKOGO,1/6/2021,,y,y,y,48.771667,-3.96833
 GR,Greece,HCMR-1-UBPC,HCMR-1,1/6/2021,,y,y,y,35.346621,25.278761,35.346621,25.27876,35.343153,25.136605,35.34662,25.27876,Melanthia Stavroulaki,mstavroulaki@hcmr.gr,PRJEB51688,PRJEB51655,y
 IL,Israel,IUI,IUIEilat1,1/6/2021,,y,n,y,29.5,34.916667,NaN,NaN,29.5,34.9,29.52,34.93,Miguel Frada,miguel.frada@mail.huji.ac.il,PRJEB51688,PRJEB51656,y
 IT,Italy,NEREAB,NRMCB,1/6/2021,,y,y,n,40.800139,14.25,40.800139,14.25,NaN,NaN,NaN,NaN,Raffaella Casotti,raffaella.casotti@szn.it,PRJEB51688,PRJEB51658,y
-IT,Italy,Acqua Alta Oceanographic Tower ,AAOT,1/6/2021,,y,n,y,45.314167,12.508333,NaN,NaN,45.316667,12.5,NaN,NaN,Mauro Bastianini,mauro.bastianini@ismar.cnr.it,PRJEB51688,PRJEB50566,y
+IT,Italy,Acqua Alta Oceanographic Tower ,AAOT,1/6/2021,,y,n,n,45.314167,12.508333,NaN,NaN,45.316667,12.5,NaN,NaN,Mauro Bastianini,mauro.bastianini@ismar.cnr.it,PRJEB51688,PRJEB50566,y
 NO,Norway,Marineholmen,Bergen,1/6/2021,,y,n,n,60.269671,5.21957,NaN,NaN,NaN,NaN,NaN,NaN,Henrik Glenner,Henrik.Glenner@UiB.no,PRJEB51688,PRJEB50569,y
 NO,Norway,Engenes Science Centre ,ESC68N,1/6/2021,,y,n,n,68.925895,17.125619,NaN,NaN,NaN,NaN,NaN,NaN,Kim Praebel,Kim.praebel@uit.no,PRJEB51688,PRJEB51654,y
 PT,Portugal,Ria Formosa,RFormosa,1/6/2021,,y,y,n,37.005639,-7.96925,37.005639,-7.96925,NaN,NaN,NaN,NaN,Bruno Louro,blouro@ualg.pt,PRJEB51688,PRJEB51661,y
@@ -17,4 +17,6 @@ ES,Spain,PiE-UPV/EHU,Plenzia,1/6/2023,,y,n,n,43.416151,-2.955807,NaN,NaN,NaN,NaN
 SE,Sweden,Ore Estuary,UMF,1/8/2022,,y,y,n,63.530556,19.813611,63.009128,19.01398,NaN,NaN,NaN,NaN,Annie Marie Cox,annie.cox@umu.se,PRJEB51688,PRJEB57914,y
 SE,Sweden,Linnaeus Microbial Observatory,LMO,1/12/2022,,y,n,n,56.916904,17.050178,NaN,NaN,NaN,NaN,NaN,NaN,Jarone Pinhassi,Jarone.pinhassi@lnu.se,PRJEB51688,PRJEB64705,y
 GB,United Kingdom,Plymouth Station L4 ,MBAL4,1/6/2021,31/12/2022,y,n,n,50.25,-4.217,NaN,NaN,NaN,NaN,NaN,NaN,Michael Cunliffe,micnli@mba.ac.uk,PRJEB51688,PRJEB51657,y
-FI,Finland,Tvärminne Zoological Station,TZS_STOR,45631,,y,y,y,59.853542,23.266784,59.8566,23.2818,59.841505,23.248879,NaN,NaN,Laura Kauppi,laura.kauppi@helsinki.fi,PRJEB51688,NaN,y
+FI,Finland,Tvärminne Zoological Station,TZS_STOR,1/12/2024,,y,y,y,59.853542,23.266784,59.8566,23.2818,59.841505,23.248879,59.8219924,22.9872216,Laura Kauppi,laura.kauppi@helsinki.fi,PRJEB51688,NaN,y
+IT,Italy,University of Bologna,UniBologna,1/6/2021,,n,n,y,NaN,NaN,NaN,NaN,45.316667,12.5,44.421488,12.209497,Federica Costantini,federica.costantini@unibo.it,PRJEB51688,NaN,y
+SE,Sweden,University of Gothenburg Tjärnö Marine Laboratory Koster,Koster,1/12/2022,,n,n,y,NaN,NaN,NaN,NaN,58.876593,11.107726,58.876538,11.105913,Matthias Obst,matthias.obst@marine.gu.se,PRJEB51688,NaN,y
