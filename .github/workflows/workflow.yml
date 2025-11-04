@@ -1,0 +1,16 @@
+name: governance-crate-workflow
+on:
+  workflow_dispatch:
+  push:
+jobs:
+  job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+      # - name: repo-constructor-action
+      #   uses: emo-bon/repo-constructor-action@main
+      #   env:
+      #     PAT: ${{ secrets.PAT }}
+      #     FILE_PATH: logsheets.csv
+      #     ORG: emo-bon
