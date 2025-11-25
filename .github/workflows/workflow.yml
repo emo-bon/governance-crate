@@ -12,5 +12,3 @@ jobs:
         uses: emo-bon/repo-constructor-action@main
         env:
           PAT: ${{ secrets.PAT }}
-          FILE_PATH: logsheets.csv
-          ORG: emo-bon
